@@ -1,75 +1,75 @@
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;500;700&display=swap");
 
-*{
-    font-family: 'Red Hat Display', sans-serif;
+* {
+  font-family: "Red Hat Display", sans-serif;
 }
 
-body{
-    background-color: hsl(283, 41%, 61%);
+body {
+  background-color: hsl(283, 41%, 61%);
 }
 h2 {
-    text-align: center;
-    font-family: fantasy;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    color: white;
+  text-align: center;
+  font-family: fantasy;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  color: white;
 }
-.navbar{
-    background-color:hsla(54, 100%, 50%, 0.815);
-}
-
-.navbar h1{
-    font-weight: 700;
+.navbar {
+  background-color: hsla(54, 100%, 50%, 0.815);
 }
 
-.card{
-    margin: 1rem auto 0;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+.navbar h1 {
+  font-weight: 700;
 }
 
-.card-img-top{
-    padding: 0.5rem 0.5rem 0 0.5rem;
-}
-.card-img-top img{
-    width: 100%;
-    height: 180px;
-    border-radius: 5px;
+.card {
+  margin: 1rem auto 0;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
-.card-title{
-    font-weight: 700;
+.card-img-top {
+  padding: 0.5rem 0.5rem 0 0.5rem;
+}
+.card-img-top img {
+  width: 100%;
+  height: 180px;
+  border-radius: 5px;
 }
 
-.card-text2{
-    color:hsl(278, 92%, 53%);
+.card-title {
+  font-weight: 700;
 }
 
-.botones-card{
-    width: 100%;
-    margin: auto;
-    border-top: 1px solid rgba(128, 128, 128, 0.486); 
+.card-text2 {
+  color: hsl(278, 92%, 53%);
 }
 
-.botones-card a{
-    background-color: hsla(245, 75%, 52%, 0.815);
-    border: none;
-    width: 100%;
-    margin-top: 1rem;
+.botones-card {
+  width: 100%;
+  margin: auto;
+  border-top: 1px solid rgba(128, 128, 128, 0.486);
 }
 
-.card6-img{
-    width: 270px;
-    height: 180px;
-    font-size: 50px;
-    background-color: rgba(0, 0, 255, 0.075);
-    margin: 8px auto;
+.botones-card a {
+  /* background-color: hsla(245, 75%, 52%, 0.815); */
+  background-color: #39b5e0;
+  border: none;
+  width: 100%;
+  margin-top: 1rem;
 }
 
-.card6-img i{
-    margin-top: 3rem;
+.card6-img {
+  width: 270px;
+  height: 180px;
+  font-size: 50px;
+  background-color: rgba(0, 0, 255, 0.075);
+  margin: 8px auto;
 }
 
+.card6-img i {
+  margin-top: 3rem;
+}
 
-footer{
-    background-color: hsla(54, 100%, 50%, 0.815);
+footer {
+  background-color: hsla(54, 100%, 50%, 0.815);
 }
